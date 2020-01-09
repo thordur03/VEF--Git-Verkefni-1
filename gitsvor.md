@@ -13,3 +13,11 @@
 2. Sýnir hvað er að gerast í github Repoinu mínu
 3. sýnir allar breytingar í Repoinu og hvað er nýtt sem ekki er búið að commita
 
+## 3
+1. sýnir öll commits sem eru búin að gera
+2. Hreyfir þig yfir á branch
+3. Gerir branch í github
+4. Sínir gömul vertion af git commits
+5. Það er fljótara
+6. 1 - 2 dag
+7. Working directory er hvaða directory bashið er í. staging area er staðurinn sem filarnir fara á undan þér eru commitaðir  
