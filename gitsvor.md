@@ -21,3 +21,5 @@
 5. Það er fljótara
 6. 1 - 2 dag
 7. Working directory er hvaða directory bashið er í. staging area er staðurinn sem filarnir fara á undan þér eru commitaðir  
+
+## 4 
