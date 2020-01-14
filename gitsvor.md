@@ -23,3 +23,6 @@
 7. Working directory er hvaða directory bashið er í. staging area er staðurinn sem filarnir fara á undan þér eru commitaðir  
 
 ## 4 
+
+## 5 
+1. test uno dos dres
